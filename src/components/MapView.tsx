@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import L from "leaflet";
 import { MapContainer, Marker, TileLayer, useMap } from "react-leaflet";
-import { useIpInfo } from "../hooks/useIpInfo";
+import { useIpInfo } from "../hooks/userIpInfo";
 
 const markerIcon = L.icon({
   iconUrl: "/images/icon-location.svg",

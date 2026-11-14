@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from "react";
-import { useSearchStore } from "../store/useSearchStore";
+import { useSearchStore } from "../store/useSerachStore";
 
 // removes spaces, "https://" and anything after the first "/"
 function cleanInput(value: string) {
