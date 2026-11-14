@@ -1,4 +1,4 @@
-import { useIpInfo } from "../hooks/useIpInfo";
+import { useIpInfo } from "../hooks/userIpInfo";
 import type { IpInfo } from "../api/ipApi";
 
 type ItemProps = {
