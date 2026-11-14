@@ -34,9 +34,6 @@ I want to add a better loading look, like a skeleton, and the map style from the
 
 First get a free API key from geo.ipify.org. Then make a file called .env in the main folder with one line, with your own key after the equals sign and no spaces or quotes:
 
-```
-VITE_IPIFY_API_KEY=your_key_here
-```
 
 Then install the packages and start the dev server:
 
@@ -45,12 +42,3 @@ pnpm install
 pnpm dev
 ```
 
-## Links
-
-Live site: add your link here
-
-Solution on Frontend Mentor: add your link here
-
-## Author
-
-Ahlam Nuru, a full-stack web development student in Ethiopia. GitHub: https://github.com/ahlamnuru
